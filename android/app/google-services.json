@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487164253081",
+    "project_id": "coins-5b665",
+    "storage_bucket": "coins-5b665.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487164253081:android:21a31b3956d693acb7b908",
+        "android_client_info": {
+          "package_name": "com.example.crazy_coins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487164253081-rpb4643fldik104kjo551d7das337knc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTzcq_EhwmYCMRsddrMy8p9RRnyIfwmcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487164253081-rpb4643fldik104kjo551d7das337knc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

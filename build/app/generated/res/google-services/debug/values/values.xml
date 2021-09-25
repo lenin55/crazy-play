@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">487164253081-rpb4643fldik104kjo551d7das337knc.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">487164253081</string>
+    <string name="google_api_key" translatable="false">AIzaSyDTzcq_EhwmYCMRsddrMy8p9RRnyIfwmcA</string>
+    <string name="google_app_id" translatable="false">1:487164253081:android:21a31b3956d693acb7b908</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDTzcq_EhwmYCMRsddrMy8p9RRnyIfwmcA</string>
+    <string name="google_storage_bucket" translatable="false">coins-5b665.appspot.com</string>
+    <string name="project_id" translatable="false">coins-5b665</string>
+</resources>
